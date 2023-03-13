@@ -1,1 +1,1 @@
-# selenium_boilerplate
+# Selenium Boilerplate
